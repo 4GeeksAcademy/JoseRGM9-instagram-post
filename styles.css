@@ -1,0 +1,107 @@
+body{
+    background-color: black;
+}
+
+.instagram {
+    display: flex;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.post {
+    background-color: white;
+    width: 500px;
+    height: 700px;
+    border-radius: 5%;
+}
+
+.post-header {
+  padding: 8px;
+  display: flex;
+}
+
+.post-header-left {
+    display: flex;
+    font-size: xx-large;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.post-header-center {
+    padding-left: 14px;
+    font-family: arial;
+}
+
+.post-header-center h1 {
+    font-size: 14px;
+    margin-bottom: -8px;
+}
+
+.post-header-center h2 {
+    font-size: 12px;
+}
+
+.post-header-right {
+    display: flex;
+    font-size: xx-large;
+    margin-left: 74%;
+    align-items: center;
+}
+
+.post-img img {
+    height: 400px;
+    width: 500px;
+}
+
+.post-icons {
+    display: flex;
+    padding: 8px;
+}
+
+.post-icons-left {
+    display: flex;
+    font-size: xx-large;
+    align-items: center;
+    gap: 12px;
+}
+
+.post-icons-right {
+    display: flex;
+    font-size: xx-large;
+    align-items: center;
+    margin-left: 68%;
+}
+
+.post-texto {
+    padding: 10px;
+}
+.post-texto p {
+    font-size: 16px;
+    font-family: Arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
